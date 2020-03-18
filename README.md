@@ -5,7 +5,3 @@
 - `vcpkg` (optional but nicer integration)
 - `cmake`
 - `opencv`
-
-## Compiling
-
-
